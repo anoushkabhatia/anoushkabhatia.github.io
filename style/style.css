@@ -1,0 +1,52 @@
+html {
+    font-size: 10px;
+    font-family: 'Times New Roman', sans-serif;
+  }
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Customize background colors for different sections */
+  body {
+    background-color: #B2E0C2; /* Light green background */
+  }
+  
+  ul {
+    background-color: #8CD790; /* Lighter green background for the bullet list */
+  }
+  
+  button {
+    background-color: #2E4A62; /* Darker green background for the button */
+    color: #FFFFFF; /* White font color for the button */
+    padding: 10px;
+    cursor: pointer;
+  }
+  
