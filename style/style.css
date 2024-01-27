@@ -33,7 +33,14 @@ html {
     display: block;
     margin: 0 auto;
   }
-  
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%; /* Set the maximum width to 100% of its container */
+  height: auto; /* Maintain the aspect ratio */
+}
+
   /* Customize background colors for different sections */
   body {
     background-color: #B2E0C2; /* Light green background */
